@@ -1,1 +1,2 @@
-https://nikitakocherinskiy.github.io/rsschool-cv/cv
+
+[My CV page](https://nikitakocherinskiy.github.io/rsschool-cv/)
